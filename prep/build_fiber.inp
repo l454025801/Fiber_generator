@@ -1,0 +1,869 @@
+tolerance 0.5
+output fiber.pdb
+filetype pdb
+seed -1
+
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 0.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.000 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 0.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.698 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 0.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.396 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 0.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.094 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 0.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.793 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 0.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.491 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 0.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.189 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 0.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.887 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 0.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.585 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 5.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.349 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 5.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.047 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 5.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.745 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 5.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.443 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 5.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.142 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 5.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.840 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 5.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.538 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 5.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.236 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 5.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.934 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 10.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.000 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 10.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.698 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 10.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.396 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 10.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.094 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 10.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.793 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 10.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.491 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 10.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.189 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 10.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.887 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 10.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.585 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 15.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.349 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 15.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.047 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 15.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.745 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 15.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.443 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 15.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.142 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 15.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.840 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 15.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.538 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 15.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.236 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 15.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.934 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 20.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.000 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 20.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.698 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 20.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.396 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 20.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.094 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 20.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.793 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 20.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.491 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 20.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.189 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 20.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.887 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 20.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.585 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 25.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.349 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 25.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.047 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 25.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.745 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 25.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.443 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 25.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.142 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 25.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.840 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 25.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.538 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 25.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.236 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 25.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.934 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 30.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.000 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 30.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.698 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 30.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.396 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 30.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.094 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 30.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.793 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 30.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.491 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 30.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.189 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 30.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.887 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 30.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.585 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 35.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.349 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 35.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.047 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 35.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.745 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 35.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.443 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 35.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.142 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 35.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.840 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 35.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.538 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 35.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.236 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 35.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.934 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 40.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.000 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 40.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.698 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 40.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.396 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 40.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.094 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 40.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.793 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 40.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.491 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 40.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.189 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 40.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.887 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 40.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.585 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 45.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.349 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 45.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.047 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 45.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.745 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 45.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.443 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 45.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.142 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 45.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.840 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 45.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.538 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 45.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.236 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 45.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.934 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 50.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.000 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 50.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.698 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 50.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.396 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 50.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.094 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 50.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.793 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 50.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.491 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 50.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.189 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 50.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.887 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 50.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.585 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 55.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.349 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 55.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.047 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 55.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.745 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 55.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.443 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 55.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.142 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 55.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.840 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 55.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.538 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 55.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.236 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 55.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.934 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 60.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.000 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 60.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.698 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 60.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.396 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 60.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.094 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 60.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.793 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 60.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.491 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 60.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.189 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 60.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.887 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 60.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.585 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 65.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.349 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 65.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.047 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 65.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.745 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 65.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.443 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 65.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.142 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 65.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.840 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 65.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.538 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 65.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.236 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 65.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.934 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 70.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.000 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 70.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.698 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 70.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.396 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 70.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.094 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 70.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.793 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 70.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.491 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 70.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.189 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 70.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.887 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 70.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.585 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 75.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 0.349 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 75.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.047 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 75.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 1.745 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 75.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 2.443 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 75.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.142 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 75.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 3.840 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 75.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 4.538 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 75.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.236 
+        end structure
+        
+structure filler_h_p.pdb
+            number 1
+            fixed 0.35 0. 75.0 0. 0. 0.
+            fixed 0. 0. 0. 0. 0. 5.934 
+        end structure
+        
